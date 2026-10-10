@@ -38,7 +38,11 @@ Viable_Bio-Speckle_dataset/
 
 ## Obtaining the full dataset
 
-The full dataset (~172 GB raw, ~94 GB compressed as a 3-part RAR5 archive with recovery record and SHA-256 checksums) exceeds GitHub's file-size limits. **The complete archive will be deposited in a public repository (Zenodo/ScienceDB); the DOI will be added here as soon as the upload is complete.** In the meantime, the full dataset is available from the corresponding author: **191676960@qq.com**.
+The full dataset is approximately **172 GB uncompressed** and **94 GB compressed**. It is distributed as a three-part RAR5 archive with a recovery record and SHA-256 checksums.
+
+**The full dataset is currently available by email request.** Due to the large file size and current transfer constraints, a complete public download is not available at this time. Please contact **[191676960@qq.com](mailto:191676960@qq.com)** to obtain the full dataset and arrange a suitable transfer method.
+
+Example image pairs remain publicly available in the [`samples/`](samples/) folder. We apologize for any inconvenience.
 
 ## Citation
 
